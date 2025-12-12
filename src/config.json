@@ -1,0 +1,85 @@
+{
+  "images": [
+    { "name": "backgroundnight", "path": "./assets/images/background-night.png", "width": 288, "height": 512 },
+    { "name": "backgroundday", "path": "./assets/images/background-day.png", "width": 288, "height": 512 },
+    { "name": "ground", "path": "./assets/images/base.png", "width": 145, "height": 50 },
+
+    { "name": "redbirdupflap", "path": "./assets/images/redbird-upflap.png", "width": 25.5, "height": 18 },
+    { "name": "redbirdmidflap", "path": "./assets/images/redbird-midflap.png", "width": 25.5, "height": 18 },
+    { "name": "redbirddownflap", "path": "./assets/images/redbird-downflap.png", "width": 25.5, "height": 18 },
+    { "name": "redbird", "path": "./assets/images/redbird-upflap.png", "width": 25.5, "height": 18 },
+
+    { "name": "bluebirdupflap", "path": "./assets/images/bluebird-upflap.png", "width": 25.5, "height": 18 },
+    { "name": "bluebirdmidflap", "path": "./assets/images/bluebird-midflap.png", "width": 25.5, "height": 18 },
+    { "name": "bluebirddownflap", "path": "./assets/images/bluebird-downflap.png", "width": 25.5, "height": 18 },
+    { "name": "bluebird", "path": "./assets/images/bluebird-upflap.png", "width": 25.5, "height": 18 },
+
+    { "name": "yellowbirdupflap", "path": "./assets/images/yellowbird-upflap.png", "width": 25.5, "height": 18 },
+    { "name": "yellowbirdmidflap", "path": "./assets/images/yellowbird-midflap.png", "width": 25.5, "height": 18 },
+    { "name": "yellowbirddownflap", "path": "./assets/images/yellowbird-downflap.png", "width": 25.5, "height": 18 },
+    { "name": "yellowbird", "path": "./assets/images/yellowbird-upflap.png", "width": 25.5, "height": 18 },
+
+    { "name": "pipeTop", "path": "./assets/images/TopPipe.png", "width": 26, "height": 300 },
+    { "name": "pipeBottom", "path": "./assets/images/BottomPipe.png", "width": 26, "height": 300 },
+    { "name": "Game-Over", "path": "./assets/images/gameover.png", "width": 192, "height": 42 },
+    { "name": "mainmenu", "path": "./assets/images/MainMenu.png", "width": 46, "height": 66   },
+    { "name": "tap", "path": "./assets/images/tap.png", "width": 232, "height": 147   },
+    { "name": "invincible", "path": "./assets/images/invincibility.png", "width": 26, "height": 25   },
+    { "name": "doublepoints", "path": "./assets/images/doublepoints.png", "width": 24, "height": 24   },
+    { "name": "slowmotion", "path": "./assets/images/slowmotion.png", "width": 26, "height": 25   },
+    { "name": "hourglass", "path": "./assets/images/hourglass.png", "width": 25, "height": 25   }
+    
+    
+
+
+  ],
+  "fonts": [
+    { "name": "FlappyBirdy", "path": "./assets/fonts/FlappyBirdy.ttf" },
+    { "name": "FlappyBirdyNumbers", "path": "./assets/fonts/flappy-bird-font.ttf" }
+  ],
+  "sounds": [
+    {
+			"name": "flap",
+			"path": "./assets/sounds/flap.mp3",
+			"size": 2,
+			"volume": 1
+		},
+    {
+			"name": "hit",
+			"path": "./assets/sounds/hit.mp3",
+			"size": 2,
+			"volume": 1
+		},
+    {
+			"name": "point",
+			"path": "./assets/sounds/point.mp3",
+			"size": 2,
+			"volume": 1
+		},
+    {
+			"name": "hit",
+			"path": "./assets/sounds/hit.mp3",
+			"size": 2,
+			"volume": 1
+		},
+    {
+			"name": "dash",
+			"path": "./assets/sounds/dash.ogg",
+			"size": 2,
+			"volume": 1
+		},
+    {
+			"name": "themesong",
+			"path": "./assets/sounds/themesong.mp3",
+			"size": 1,
+			"volume": 0.1,
+      "loop":true
+		},
+    {
+			"name": "swoosh",
+			"path": "./assets/sounds/swoosh.mp3",
+			"size": 2,
+			"volume": 1
+		}
+  ]
+}
